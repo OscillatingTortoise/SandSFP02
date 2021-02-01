@@ -1,0 +1,20 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1206087758	SwordSwingL			\Default Work Unit\Weapons\SwordSwingL	
+	1206087760	SwordSwingR			\Default Work Unit\Weapons\SwordSwingR	
+	1328934038	SwordSwing			\Default Work Unit\Weapons\SwordSwing	
+	3468298639	Sheathe			\Default Work Unit\Weapons\Sheathe	
+	4112247288	Unsheathe			\Default Work Unit\Weapons\Unsheathe	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	383616155	Unsheathev2	D:\Unreal\SandSFP02\SandSFP02_WwiseProject\.cache\Windows\SFX\Unsheathev2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Weapons\Unsheathe\Unsheathev2		216360
+	392892106	SwordSwingL01	D:\Unreal\SandSFP02\SandSFP02_WwiseProject\.cache\Windows\SFX\SwordSwingL01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Weapons\Sword\SwordSwing\SwordSwingL\SwordSwingL01		113660
+	569667028	SwordSwingV202RX	D:\Unreal\SandSFP02\SandSFP02_WwiseProject\.cache\Windows\SFX\SwordSwingV202RX_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Weapons\Sword\SwordSwing\SwordSwing\SwordSwingV202RX		118728
+	574077136	SwordSwingV201RX	D:\Unreal\SandSFP02\SandSFP02_WwiseProject\.cache\Windows\SFX\SwordSwingV201RX_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Weapons\Sword\SwordSwing\SwordSwing\SwordSwingV201RX		113660
+	614492786	SwordSwingR01	D:\Unreal\SandSFP02\SandSFP02_WwiseProject\.cache\Windows\SFX\SwordSwingR01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Weapons\Sword\SwordSwing\SwordSwingR\SwordSwingR01		113660
+	659053318	SwordSwingV203RX	D:\Unreal\SandSFP02\SandSFP02_WwiseProject\.cache\Windows\SFX\SwordSwingV203RX_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Weapons\Sword\SwordSwing\SwordSwing\SwordSwingV203RX		127964
+	782205064	SwordSwingL03	D:\Unreal\SandSFP02\SandSFP02_WwiseProject\.cache\Windows\SFX\SwordSwingL03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Weapons\Sword\SwordSwing\SwordSwingL\SwordSwingL03		127964
+	949773977	SwordSwingL02	D:\Unreal\SandSFP02\SandSFP02_WwiseProject\.cache\Windows\SFX\SwordSwingL02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Weapons\Sword\SwordSwing\SwordSwingL\SwordSwingL02		118728
+	997891144	SwordSwingR03	D:\Unreal\SandSFP02\SandSFP02_WwiseProject\.cache\Windows\SFX\SwordSwingR03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Weapons\Sword\SwordSwing\SwordSwingR\SwordSwingR03		127964
+	1003705638	Sheathev2	D:\Unreal\SandSFP02\SandSFP02_WwiseProject\.cache\Windows\SFX\Sheathev2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Weapons\Sheathe\Sheathev2		164688
+	1028253653	SwordSwingR02	D:\Unreal\SandSFP02\SandSFP02_WwiseProject\.cache\Windows\SFX\SwordSwingR02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Weapons\Sword\SwordSwing\SwordSwingR\SwordSwingR02		118728
+

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{8A68AFE6-080A-4CC7-ABA8-F5DD08FCE139}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{8A68AFE6-080A-4CC7-ABA8-F5DD08FCE139}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Weapons" ID="{C6E72924-4BDA-4F9D-9A1D-1EF00109251A}" ShortID="683744408">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="10"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Event Name="SwordSwingL" ID="{24E64A3D-CEC9-46E5-986A-9E0DF4236825}">
+							<ChildrenList>
+								<Action Name="" ID="{61CBE050-88FA-4ECE-AD6F-14B1E8F424BC}" ShortID="1019312079">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="SwordSwingL" ID="{AA8292FC-B93D-4EE0-B3BE-44FEFA83BB93}" WorkUnitID="{56B1CF69-0850-41BB-B765-1EA6F21BBC8B}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="SwordSwingR" ID="{5BCDE094-3B15-4061-ACB8-F00DB0C71E85}">
+							<ChildrenList>
+								<Action Name="" ID="{5BDF7A35-E908-4435-A40A-8D75072E9728}" ShortID="235641473">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="SwordSwingR" ID="{B0CDB9E8-1AFB-40BD-8D96-E29E3FEE8CEA}" WorkUnitID="{56B1CF69-0850-41BB-B765-1EA6F21BBC8B}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="SwordSwing" ID="{5B4E23C3-DD66-402B-86EE-A8FD00E3126C}">
+							<ChildrenList>
+								<Action Name="" ID="{C2E64069-6973-48D3-B13F-4B43C2B36821}" ShortID="263195848">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="SwordSwing" ID="{72510D15-3E6D-412F-B7B5-19FCE5E41AE9}" WorkUnitID="{56B1CF69-0850-41BB-B765-1EA6F21BBC8B}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Sheathe" ID="{B174021B-76A0-4689-88D2-CE0108D6A7DE}">
+							<ChildrenList>
+								<Action Name="" ID="{182787EB-F348-4F7D-BE25-A26A3A425D1B}" ShortID="239940285">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Sheathev2" ID="{B1EEDD1C-52EF-4BC7-8726-78ADD3E2442E}" WorkUnitID="{56B1CF69-0850-41BB-B765-1EA6F21BBC8B}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Unsheathe" ID="{A3E3CE70-E1E2-40BB-A53C-850F30473FC1}">
+							<ChildrenList>
+								<Action Name="" ID="{54C5B237-43C1-484B-BD53-3B0AC9AEBA53}" ShortID="682373821">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Unsheathev2" ID="{E51F48FC-6221-4C24-A985-7C4798529680}" WorkUnitID="{56B1CF69-0850-41BB-B765-1EA6F21BBC8B}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

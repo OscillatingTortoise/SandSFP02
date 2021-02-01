@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>D:\Unreal\SandSFP02\SandSFP02_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>D:\Unreal\SandSFP02\SandSFP02_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Unreal\SandSFP02\SandSFP02_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\Unreal\SandSFP02\SandSFP02_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3435346864">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2228651116" Language="SFX" Hash="167043031">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main_Soundbank</ObjectPath>
+			<ShortName>Main_Soundbank</ShortName>
+			<Path>Main_Soundbank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3468298639" Name="Sheathe" ObjectPath="\Events\Default Work Unit\Weapons\Sheathe">
+					<IncludedMemoryFiles>
+						<File Id="1003705638" Language="SFX">
+							<ShortName>Sheathev2.wav</ShortName>
+							<Path>SFX\Sheathev2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1328934038" Name="SwordSwing" ObjectPath="\Events\Default Work Unit\Weapons\SwordSwing">
+					<IncludedMemoryFiles>
+						<File Id="569667028" Language="SFX">
+							<ShortName>SwordSwingV202RX.wav</ShortName>
+							<Path>SFX\SwordSwingV202RX_10C4C929.wem</Path>
+						</File>
+						<File Id="574077136" Language="SFX">
+							<ShortName>SwordSwingV201RX.wav</ShortName>
+							<Path>SFX\SwordSwingV201RX_10C4C929.wem</Path>
+						</File>
+						<File Id="659053318" Language="SFX">
+							<ShortName>SwordSwingV203RX.wav</ShortName>
+							<Path>SFX\SwordSwingV203RX_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1206087758" Name="SwordSwingL" ObjectPath="\Events\Default Work Unit\Weapons\SwordSwingL">
+					<IncludedMemoryFiles>
+						<File Id="392892106" Language="SFX">
+							<ShortName>SwordSwingL01.wav</ShortName>
+							<Path>SFX\SwordSwingL01_10C4C929.wem</Path>
+						</File>
+						<File Id="782205064" Language="SFX">
+							<ShortName>SwordSwingL03.wav</ShortName>
+							<Path>SFX\SwordSwingL03_10C4C929.wem</Path>
+						</File>
+						<File Id="949773977" Language="SFX">
+							<ShortName>SwordSwingL02.wav</ShortName>
+							<Path>SFX\SwordSwingL02_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1206087760" Name="SwordSwingR" ObjectPath="\Events\Default Work Unit\Weapons\SwordSwingR">
+					<IncludedMemoryFiles>
+						<File Id="614492786" Language="SFX">
+							<ShortName>SwordSwingR01.wav</ShortName>
+							<Path>SFX\SwordSwingR01_10C4C929.wem</Path>
+						</File>
+						<File Id="997891144" Language="SFX">
+							<ShortName>SwordSwingR03.wav</ShortName>
+							<Path>SFX\SwordSwingR03_10C4C929.wem</Path>
+						</File>
+						<File Id="1028253653" Language="SFX">
+							<ShortName>SwordSwingR02.wav</ShortName>
+							<Path>SFX\SwordSwingR02_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4112247288" Name="Unsheathe" ObjectPath="\Events\Default Work Unit\Weapons\Unsheathe">
+					<IncludedMemoryFiles>
+						<File Id="383616155" Language="SFX">
+							<ShortName>Unsheathev2.wav</ShortName>
+							<Path>SFX\Unsheathev2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

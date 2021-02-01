@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{DBA44DD9-2296-4770-9AEF-DE9973714849}" SchemaVersion="97">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{DBA44DD9-2296-4770-9AEF-DE9973714849}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main_Soundbank" ID="{7E254548-F972-4D70-9D51-8101C4E4ECDC}">
+					<ObjectInclusionList>
+						<ObjectRef Name="SwordSwing" ID="{5B4E23C3-DD66-402B-86EE-A8FD00E3126C}" WorkUnitID="{8A68AFE6-080A-4CC7-ABA8-F5DD08FCE139}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="SwordSwingR" ID="{5BCDE094-3B15-4061-ACB8-F00DB0C71E85}" WorkUnitID="{8A68AFE6-080A-4CC7-ABA8-F5DD08FCE139}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Unsheathe" ID="{A3E3CE70-E1E2-40BB-A53C-850F30473FC1}" WorkUnitID="{8A68AFE6-080A-4CC7-ABA8-F5DD08FCE139}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Sheathe" ID="{B174021B-76A0-4689-88D2-CE0108D6A7DE}" WorkUnitID="{8A68AFE6-080A-4CC7-ABA8-F5DD08FCE139}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="SwordSwingL" ID="{24E64A3D-CEC9-46E5-986A-9E0DF4236825}" WorkUnitID="{8A68AFE6-080A-4CC7-ABA8-F5DD08FCE139}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>
